@@ -1,4 +1,4 @@
-FROM visanalyticskit/phusion:0.9.18
+FROM visanalyticskit/vakserver_phusion:0.9.18
 MAINTAINER visanalyticskit@gmail.com
 
 ENV TERM=dumb \
