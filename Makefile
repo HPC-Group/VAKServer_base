@@ -1,4 +1,4 @@
-IMAGE=visanalyticskit/base
+IMAGE=visanalyticskit/vakserver_base
 TAG=latest
 
 .PHONY: build
